@@ -18,13 +18,12 @@
 
 html, body {
     scroll-behavior: smooth;
+    overflow-x:hidden!important;
 }
 
 body {
     font-family: "Roboto", serif;
     background-color: var(--white);
-    display:block;
-    overflow-x:hidden!important;
 }
 
 ul {
@@ -388,7 +387,7 @@ a {
   }
 
   .swiper {
-    width: 50%;
+    width: 90%;
     height: auto;
     margin: 20px 0;
   }
