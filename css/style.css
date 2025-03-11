@@ -23,6 +23,8 @@ html, body {
 body {
     font-family: "Roboto", serif;
     background-color: var(--white);
+    display:block;
+    overflow-x:hidden!important;
 }
 
 ul {
