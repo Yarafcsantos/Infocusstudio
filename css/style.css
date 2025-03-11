@@ -257,7 +257,6 @@ a {
     padding: 0 15px;
     font-size: 24px;
     text-align: center;
-    white-space: nowrap; /* Impede que o título quebre em várias linhas */
   }
 
   img {
